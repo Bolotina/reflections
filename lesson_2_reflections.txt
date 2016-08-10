@@ -3,6 +3,7 @@ This command creates a new Git repository. We need to do it if we want to use th
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+This is an interim stage between working directory and the repository. It's a file that stores information about what will go into the next commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
