@@ -11,11 +11,15 @@ If I did a lot of changes I can add only the changes that were affected by 1 log
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When you want to make some experiments with you files. It helps to revert to your master branch after making changes if you don't need them more. It also useful when you are working with other developers.
 
 How do the diagrams help you visualize the branch structure?
+I can see all branches with all commits and there parents.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+All commits are now presenting in one branch with all changes that were made. The diagram shows all connections between the commits and their parents.
 
-What are the pros and cons of GitвЂ™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Using automatic merging you don't need to spend your time on merging everything manually but there could be some mistakes and conflicts so sometimes it's important to check how everything is working after merge.
