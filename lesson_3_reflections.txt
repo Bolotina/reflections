@@ -5,7 +5,7 @@ I would like to use a remote repository when I collaborate with other people. Al
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-
+Because it can happen that I don't need all changes.
 
 
 Describe the differences between forks, clones, and branches.  When would you
