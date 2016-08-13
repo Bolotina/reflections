@@ -14,11 +14,11 @@ use one instead of another?
 Clones - when you make a copy of repository from GitHub to your local computer.
 Forks - when you make a copy of repository from somebody’s GitHub account to your GitHub account.
 Branch - when you need to make changes in the same repository but to keep the main version (master) as it is.
-I’ll choose one of these three depending on the task I need to do taking into account I wrote before about their functionality. 
+I’ll choose one of these three depending on the task I need to do taking into account I wrote before about their functionality.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
+The benefit is that you will have an up-to-date copy in you local computer if you won't have an iternet access. And there is no need to merge it with your local repository if you don't want to do it right now.
 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
