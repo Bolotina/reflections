@@ -28,4 +28,4 @@ In this case we can use a common folder somewhere on the remote server or using 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
+It's better to use a separte branch when you cooperate with a lot of people because it's give you an opportunity to review changes before merge.
