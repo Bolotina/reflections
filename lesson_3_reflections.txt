@@ -23,7 +23,7 @@ The benefit is that you will have an up-to-date copy in you local computer if yo
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
+In this case we can use a common folder somewhere on the remote server or using DropBox but there are a lot of disadvantages comparing with using Git or GitHub. There could be conflicts because few people can work on the same part of the code and don't know about it.
 
 
 When would you want to make changes in a separate branch rather than directly in
